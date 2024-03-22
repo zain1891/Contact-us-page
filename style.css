@@ -1,6 +1,10 @@
 body{
     background-image: url(https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);
 }
+.netflixicon{
+    height: 40px;
+}
+
 .head{
     display: flex;
     text-align: center;
@@ -17,7 +21,7 @@ body{
     border-radius: 10px;
     padding: 8px;
     width: 250px;
-    background-color:#333333e3 ;
+    background-color:#2a2929ee ;
     color: white;
     border: 0px;
 }
